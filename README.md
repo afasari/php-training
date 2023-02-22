@@ -2,3 +2,4 @@
 
 - ASCII
 - Pangram
+- Descent Number
